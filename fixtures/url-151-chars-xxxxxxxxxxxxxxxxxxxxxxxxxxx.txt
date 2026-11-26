@@ -1,0 +1,3 @@
+Fixture file fixtures/url-151-chars-xxxxxxxxxxxxxxxxxxxxxxxxxxx.txt
+Its blob URL at a full commit SHA with #L1-L3 is exactly 151 characters long.
+Line 3.
